@@ -3,4 +3,5 @@
 1. Arduino
 2. Motor Shield
 3. BO motors (x2)
-4. Infrared sensor
+4. Servo
+4. Infrared sensor (placed upon servo)
