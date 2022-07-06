@@ -15,3 +15,7 @@ uses a stationary fixed infrared sensor to detect objects
 
 ### v4
 uses a rotating infrared sensor to detect which direction to turn
+
+---
+
+##### (delay duration and motor speeds need to be adjusted according to requirements)
