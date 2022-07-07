@@ -18,4 +18,4 @@ uses a rotating infrared sensor to detect which direction to turn
 
 ---
 
-##### (delay duration and motor speeds need to be adjusted according to requirements)
+##### (delay duration, motor speed and servo angle need to be adjusted according to requirements)
